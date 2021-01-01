@@ -18,7 +18,7 @@ function recursiveSum(numArr, sumNum = 0) {
 // easily handles 100_000_000 iterations
 
 function iterativeSum(numArr) {
-    sumNum = 0;
+    let sumNum = 0;
 
     numArr.forEach( (num) => {
         sumNum += num;
