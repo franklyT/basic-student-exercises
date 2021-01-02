@@ -1,0 +1,9 @@
+o:	Game:@guessesi
+:@guessed_letters[I"a:ETI"e;T:@display_word[I"_;T@
+@
+@
+@
+@
+@
+:@guess_word[I"c;TI"h;TI"a;TI"o;TI"t;TI"i;TI"c;TI"
+;T:@wrong_answersi:@guessI"e;T

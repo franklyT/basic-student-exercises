@@ -1,0 +1,3 @@
+o:	Game:@guessesi
+:@debugT:@guessed_letters[I"a:ETI"c;	TI"h;	TI"r;	TI"t;	TI"p;	T:@display_word[I"_;	TI"a;	T@I"a;	TI"p;	TI"a;	T:@guess_word[I"J;	T@I"l;	T@@@I"
+;	T:@wrong_answersi	:@guessI"	save;	T:@choicei
