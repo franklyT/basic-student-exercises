@@ -5,7 +5,7 @@ rps_string = "Rock, Paper, or Scissors? "
 round = 0
 max_rounds = 3
 computer_play = ""
-human_play = """
+human_play = ""
 computer_score = 0
 human_score = 0
 
@@ -32,15 +32,14 @@ while (round < max_rounds):
         print("You lose!")
         computer_score += 1
         
-    elif ((human_play == "paper" and computer_play ==  "rock") or (human_play ==  "scissors" and computer_play == "paper") or (human_play ==  "rock"  and computer_play ==  "scissors"):
+    elif ((human_play == "paper" and computer_play ==  "rock") or (human_play ==  "scissors" and computer_play == "paper") or (human_play ==  "rock"  and computer_play ==  "scissors")):
         print("You win!")
         human_score += 1
 
 if (human_score > computer_score):
     print("You win the game!")
-print(computer_score > human_score):
+elif (computer_score > human_score):
     print("The computer wins the game!!")
 else:
     print("The game is a tie!")
-        
-
+       
