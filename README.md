@@ -1,4 +1,4 @@
-# js-student-exercises
+# basic-student-exercises
 
 A smattering of exercises I used to drill learners on basic CS theory.
 
