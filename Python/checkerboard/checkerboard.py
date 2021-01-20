@@ -1,5 +1,3 @@
-# Your code goes under this line
-
 def checkerboard(rows, cols):
     the_board = ""
     for i in range(0, rows):
